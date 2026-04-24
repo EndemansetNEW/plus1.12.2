@@ -3,6 +3,6 @@
 ---
 Forking this repository is only appreciated if you wish to create an updated branch.
 ---
-This is a project by Cerealist and rblxcollin, housing links developed by us for students/anyone to use at school or in a protected environment.
+This is a project by Cerealist and rblxcollin and EndemansetNEW, housing links developed by us for students/anyone to use at school or in a protected environment.
 ## We are not responsible for any trouble you put yourself into using this website.
  You can request to commit by adding a pull request or an issue.
